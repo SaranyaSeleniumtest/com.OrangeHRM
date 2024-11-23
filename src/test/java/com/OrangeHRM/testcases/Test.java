@@ -11,6 +11,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Test {
 	
 	public static void main(String[] args) {
+
+		// This is for testing purpose- changes by divya
 		WebDriver driver;
 		WebDriverWait wait;
 		driver= new ChromeDriver();
