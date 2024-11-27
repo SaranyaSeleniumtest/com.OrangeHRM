@@ -12,7 +12,7 @@ public class Test {
 	
 	public static void main(String[] args) {
 
-		// This is for testing purpose- changes by divya
+		// This is for testing purpose- changes by Saranya
 		WebDriver driver;
 		WebDriverWait wait;
 		driver= new ChromeDriver();
