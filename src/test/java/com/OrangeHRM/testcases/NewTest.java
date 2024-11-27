@@ -16,6 +16,7 @@ public class NewTest extends testBase_old {
 	
 	@Test(dataProvider="newdata")
 	public void TC002_newtest(Object obj1) throws InterruptedException {
+		// this is new test added
 		HashMap<String,String> hm= (HashMap<String,String>)obj1;
 		lp.loginapp(hm);
 		}
